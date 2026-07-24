@@ -2,10 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Estou trabalhando atualmente em robôs de whatsapp
-- 🌱 Estou aprendendo JavaScript e NodeJS
-- 👯 Procuro colaborar em programação de robôs de whatsapp, só chamar
-- ⚡ Moro em Sergipe, Aracaju e tenho 14 anos!
+- O código é só um detalhe entre o problema e a solução.
   
   <div>
   <a href="https://github.com/ninja1184">
