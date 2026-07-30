@@ -75,10 +75,6 @@ detalhe que ninguém nota até faltar.
 
 <br><br>
 
-<img height="165" src="https://streak-stats.demolab.com?user=guirab734&hide_border=true&background=09070F&stroke=7B2BF9&ring=E11D9C&fire=E11D9C&currStreakLabel=C9BEE8&sideLabels=C9BEE8&dates=C9BEE8&currStreakNum=F4F1FA&sideNums=F4F1FA" alt="Sequência de contribuições" />
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guirab734&bg_color=09070F&color=C9BEE8&line=7B2BF9&point=E11D9C&area=true&hide_border=true" width="98%" alt="Atividade recente" />
 
 </div>
