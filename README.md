@@ -69,9 +69,17 @@ detalhe que ninguém nota até faltar.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guirab734&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=09070F&title_color=7B2BF9&icon_color=E11D9C&text_color=C9BEE8&ring_color=7B2BF9" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guirab734&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=09070F&title_color=7B2BF9&icon_color=E11D9C&text_color=C9BEE8" alt="Estatísticas do GitHub" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirab734&layout=compact&langs_count=8&hide_border=true&bg_color=09070F&title_color=7B2BF9&text_color=C9BEE8" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guirab734&layout=compact&langs_count=8&hide_border=true&bg_color=09070F&title_color=7B2BF9&text_color=C9BEE8" alt="Linguagens mais usadas" />
+
+<br><br>
+
+<img height="165" src="https://streak-stats.demolab.com?user=guirab734&hide_border=true&background=09070F&stroke=7B2BF9&ring=E11D9C&fire=E11D9C&currStreakLabel=C9BEE8&sideLabels=C9BEE8&dates=C9BEE8&currStreakNum=F4F1FA&sideNums=F4F1FA" alt="Sequência de contribuições" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guirab734&bg_color=09070F&color=C9BEE8&line=7B2BF9&point=E11D9C&area=true&hide_border=true" width="98%" alt="Atividade recente" />
 
 </div>
 
