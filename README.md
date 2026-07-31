@@ -39,7 +39,7 @@ parte que o usuário sente: o tempo de resposta, o que acontece quando algo dá 
 detalhe que ninguém nota até faltar.
 
 - 🛠️ Front-end com TypeScript, React e Next.js — e React Native no mobile
-- 🗄️ Back-end com Node.js, APIs REST e bancos relacionais
+- 🗄️ Back-end com Node.js, APIs REST, Supabase e bancos relacionais
 - 🖥️ Também escrevo C#, C++ e Python quando o problema pede
 - 🌐 Portfólio em **[guirab.com.br](https://guirab.com.br)**
 
@@ -49,17 +49,29 @@ detalhe que ninguém nota até faltar.
 
 <div align="center">
 
-### Linguagens
-<img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,py&theme=dark" alt="TypeScript, JavaScript, C#, C++, Python" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="58" height="58" />
+&nbsp;
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="58" height="58" />
+&nbsp;
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="58" height="58" />
+&nbsp;
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="58" height="58" />
+&nbsp;
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="58" height="58" />
+&nbsp;
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="58" height="58" />
+&nbsp;
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API REST" width="58" height="58" />
+&nbsp;
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="58" height="58" />
+&nbsp;
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="58" height="58" />
+&nbsp;
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="58" height="58" />
 
-### Front-end e mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" alt="React, React Native, Next.js, Tailwind, HTML, CSS, Figma" />
+<br>
 
-### Back-end e dados
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,prisma&theme=dark" alt="Node.js, Express, PostgreSQL, MySQL, MongoDB, Prisma" />
-
-### Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,linux&theme=dark" alt="Git, GitHub, VS Code, Vercel, Docker, Linux" />
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,nodejs,express,supabase,postgres,mongodb,expo,vercel,figma&theme=dark" alt="Next.js, Tailwind, Node.js, Express, Supabase, PostgreSQL, MongoDB, Expo, Vercel, Figma" />
 
 </div>
 
