@@ -38,7 +38,7 @@ Trabalho principalmente com **React** e **Next.js**, mas o que me interessa de v
 parte que o usuário sente: o tempo de resposta, o que acontece quando algo dá errado, o
 detalhe que ninguém nota até faltar.
 
-- 🛠️ Front-end com TypeScript, React e Next.js
+- 🛠️ Front-end com TypeScript, React e Next.js — e React Native no mobile
 - 🗄️ Back-end com Node.js, APIs REST e bancos relacionais
 - 🖥️ Também escrevo C#, C++ e Python quando o problema pede
 - 🌐 Portfólio em **[guirab.com.br](https://guirab.com.br)**
@@ -50,10 +50,10 @@ detalhe que ninguém nota até faltar.
 <div align="center">
 
 ### Linguagens
-<img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,py,java&theme=dark" alt="TypeScript, JavaScript, C#, C++, Python, Java" />
+<img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,py&theme=dark" alt="TypeScript, JavaScript, C#, C++, Python" />
 
-### Front-end
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" alt="React, Next.js, Tailwind, HTML, CSS, Figma" />
+### Front-end e mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" alt="React, React Native, Next.js, Tailwind, HTML, CSS, Figma" />
 
 ### Back-end e dados
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,prisma&theme=dark" alt="Node.js, Express, PostgreSQL, MySQL, MongoDB, Prisma" />
